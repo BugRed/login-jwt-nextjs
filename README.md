@@ -20,8 +20,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ### Extras
 
-  Create a file called .env*.local in the project root to store the JWT key
-  Name the key as JWT_SECRET
+  Create a file called `.env*.local` in the project root to store the JWT key
+  name the key as `JWT_SECRET`
   EX: 
   ```bash
   JWT_SECRET={password]
